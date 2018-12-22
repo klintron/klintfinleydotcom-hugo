@@ -1,0 +1,34 @@
+baseURL = "https://klintfinley.com"
+languageCode = "en-us"
+title = "Klint Finley"
+theme = "resume"
+
+[params]
+    firstName = "Klint"
+    lastName = "Finley"
+    address = "Portland, Oregon"
+    profileImage = "illustration.jpg"
+    email = "me@klintfinley.com"
+    # what sections
+    showSkills = false
+    showProjects = false
+    showOpenSource = false
+    showPublications = false
+    showExperience = false
+    showEducation = false
+
+    showQr = false
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/klintron"
+
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/klintron/"
+
+[[params.handles]]
+    name = "Keybase"
+    link = "https://keybase.io/klintron"
+    icon = "keybase"
