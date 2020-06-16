@@ -12,7 +12,7 @@ type: page
 
 - [The Internet Archive Is Making Wikipedia More Reliable](https://www.wired.com/story/internet-archive-wikipedia-more-reliable/)
 
-- [The Solo JavaScript Developer Challenging Google and Facebook](https://www.wired.com/story/the-solo-javascript-developer-challenging-google-facebook/), my profile of Vue.js/
+- [The Solo JavaScript Developer Challenging Google and Facebook](https://www.wired.com/story/the-solo-javascript-developer-challenging-google-facebook/), my profile of Vue.js.
 
 - [WireGuard Gives Linux a Faster, More Secure VPN](https://www.wired.com/story/wireguard-gives-linux-faster-secure-vpn/)
 
@@ -20,4 +20,4 @@ type: page
 
 - [The Woman Bringing Civility to Open Source Projects](https://www.wired.com/story/woman-bringing-civility-to-open-source-projects/), my story on Coraline Ada Ehmke's work to bring codes of conduct to open source projects.
 
-- [My story on how Chinese programmers are using special licenses to fight abusive labor practices in](https://www.wired.com/story/how-github-helping-overworked-chinese-programmers/)
+- [My story on how Chinese programmers are using special licenses to fight abusive labor practices](https://www.wired.com/story/how-github-helping-overworked-chinese-programmers/).
