@@ -9,7 +9,7 @@ outputs:
 ---
 I'm a writer and editor. Most recently I worked as a reporter for [_Wired_](http://www.wired.com/author/kfinley/), where I covered telecommunications, software development, privacy, technology law, network neutrality, machine learning, open source, hacker culture, startup culture, code literacy and more.
 
-I'm currently taking a break while I think about what I want to do next. You can reach me at klintfinley@gmail.com if you have ideas.
+If you'd like to hire me for freelance or full-time work, feel free to email me at klintfinley@gmail.com.
 
 Sometimes I write [fiction](https://klintron.com/fiction/) and [role playing games](https://klintron.com/games/).
 
