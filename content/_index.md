@@ -7,6 +7,4 @@ sitemap:
 outputs:
 - html
 ---
-I'm a freelancer writer specializing in artificial intelligence, cloud computing, data science, and developer technology. Most recently I worked as a reporter for [_Wired_](http://www.wired.com/author/kfinley/), where I covered telecommunications, software development, privacy, technology law, network neutrality, machine learning, open source, hacker culture, startup culture, code literacy and more.
-
-If you'd like to hire me for content creation, ghostwriting, or other writing or editing projects, feel free to email me at klintfinley@gmail.com.
+I write about the people behind open source software for [GitHub's ReadME Project](https://github.com/readme). Previously I worked as a reporter for [_Wired_](http://www.wired.com/author/kfinley/), where I covered telecommunications, software development, privacy, technology law, network neutrality, machine learning, open source, hacker culture, startup culture, code literacy and more.
